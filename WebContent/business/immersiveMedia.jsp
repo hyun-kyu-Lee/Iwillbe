@@ -36,6 +36,7 @@
 
 <!-- Template Main CSS File -->
 <link href="../assets/css/style.css" rel="stylesheet">
+<link href="../assets/css/business.css" rel="stylesheet">
 
 </head>
 
@@ -52,7 +53,7 @@
 				<div class="d-flex justify-content-between align-items-center">
 					<h2>사업 분야</h2>
 					<ol>
-						<li><a href="index.html">메인</a></li>
+						<li><a href="index.html">사업분야</a></li>
 						<li>실감 미디어</li>
 					</ol>
 				</div>
@@ -62,8 +63,7 @@
 		<!-- End Breadcrumbs -->
 
 		<!-- ========== immersiveMedia start============== -->
-
-		<div class="row content">
+		<div class="content">
 			<h3>실감 미디어</h3>
 			<p>
 				실감미디어란 사실감, 현장감, 몰입감 등을 극대화하는 미디어를 뜻합니다. <br> IWILLB는 사용자가 마치

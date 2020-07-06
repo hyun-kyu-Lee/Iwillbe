@@ -52,7 +52,7 @@
 				<div class="d-flex justify-content-between align-items-center">
 					<h2>사업 분야</h2>
 					<ol>
-						<li><a href="index.html">메인</a></li>
+						<li><a href="index.jsp">메인</a></li>
 						<li>ICT Service</li>
 					</ol>
 				</div>

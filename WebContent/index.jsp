@@ -98,7 +98,6 @@
 		</div>
 	</section>
 	<!-- End Hero -->
-dfdf
 	<main id="main">
 
 		<!-- ======= About Us Section ======= -->
