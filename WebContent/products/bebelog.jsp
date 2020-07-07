@@ -36,6 +36,7 @@
 
 <!-- Template Main CSS File -->
 <link href="../assets/css/style.css" rel="stylesheet">
+<link href="../assets/css/products.css" rel="stylesheet">
 
 </head>
 
@@ -61,6 +62,19 @@
 			</div>
 		</section>
 		<!-- End Breadcrumbs -->
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	</main>
 
 	<!-- ======= Footer ======= -->
