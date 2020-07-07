@@ -731,7 +731,7 @@
                           result = result + '&'+ sParameterName[0]+'='+ sParameterName[1];
                       }
                   }
-                  return encodeURI(result);
+                  return encodeURIComponent(result);
                 }
 
                 /* -------- LOAD INLINE -------- */
