@@ -114,6 +114,14 @@
 			</div>
 			
 		</section>
+		
+		<div class="videobox">
+		
+			<h3>Real Cube 관련 동영상</h3>
+			<video src="../assets/video/KT Real Cube Video.mp4" controls autoplay muted loop playsinline></video>
+		
+		</div>
+		
 
 
 

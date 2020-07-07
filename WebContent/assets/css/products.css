@@ -43,3 +43,19 @@
   font-weight: bold;
   font-size: 20px;
 }
+
+.videobox {
+	text-align: center;
+	margin-top: 150px;
+}
+
+.videobox h3 {
+	text-align: center;
+}
+
+.videobox video{
+  width: 800px;
+  height: 600px;
+ 
+  
+}
