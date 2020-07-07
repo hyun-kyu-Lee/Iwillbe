@@ -68,9 +68,9 @@
 				<div class="pdc-content">
 
 					<div class="pdc-img">
-						<a href="" class="logo"><img
+						<div class="logo"><img
 							src="../assets/img/products/kt_realcube.jpg" alt=""
-							class="img-fluid"></a>
+							class="img-fluid"></div>
 					</div>
 
 					<div class="pdc-text">
@@ -83,10 +83,38 @@
 
 				</div>
 
+			</div>
+			
+		</section>
 
+		<section id="services" class="services section-bg">
+			<div class="container" data-aos="fade-up">
+
+				<div class="pdc-content">
+
+					<div class="pdc-text2">
+						<p class="">&nbsp;</p>
+						<p class="">Real Cube는 현실의 공간에 반응형 기술과 동작 인식이 가능한 센서 등을 구축해
+							집중력, 수리력, 문제해결력 등의 두뇌 발달과 순발력, 지구력, 근력 등의 신체 발달을 동시에 가능케 하는 MR
+							솔루션입니다.</p>
+						<p class="">실감미디어 기술 융합과 차별화된 콘텐츠를 통해 헬스케어 시장의 새로운 가치를 제공합니다</p>
+					</div>
+					
+					
+					<div class="pdc-img2">
+						<div class="logo"><img
+							src="../assets/img/products/kt_realcube.jpg" alt=""
+							class="img-fluid"></div>
+					</div>
+
+
+				</div>
 
 			</div>
+			
 		</section>
+
+
 
 	</main>
 
