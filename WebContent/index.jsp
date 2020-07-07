@@ -269,19 +269,20 @@
 							<div class="row">
 								<div class="col-lg-4 info">
 									<i class="icofont-google-map"></i>
-									<h4>Address:</h4>
-									<p>서울 동작구 남부순환로 269길 8, 302호</p>
+									<h4>Address</h4>
+									<p>서울 동작구 남부순환로 <br>
+									269길 8, 302호</p>
 								</div>
 
 								<div class="col-lg-4 info mt-4 mt-lg-0">
 									<i class="icofont-envelope"></i>
-									<h4>TEL:</h4>
+									<h4>TEL</h4>
 									<p>02-6949-5335</p>
 								</div>
 
 								<div class="col-lg-4 info mt-4 mt-lg-0">
 									<i class="icofont-phone"></i>
-									<h4>FAX:</h4>
+									<h4>FAX</h4>
 									<p>02-597-8100</p>
 								</div>
 							</div>
