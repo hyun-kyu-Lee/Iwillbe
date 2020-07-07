@@ -945,7 +945,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #1e1e1e;
+  background: #282828;
 }
 
 #footer .footer-top .footer-contact {
@@ -1018,4 +1018,21 @@ section {
   text-decoration: none;
   color: #fff;
 }
+
+#footer .row {
+	
+}
+
+@media screen and (max-width: 991px) {
+	
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 500px) {
+	
+}
+
 
