@@ -2,7 +2,6 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -40,9 +39,10 @@
 </head>
 
 <body>
-	<!-- Start header -->
+
+	<!-- ======= Start Header ======= -->
 	<jsp:include page="../header.jsp"></jsp:include>
-	<!-- End header -->
+	<!-- ======= End Header ======= -->
 	<main id="main">
 
 		<!-- ======= Breadcrumbs ======= -->
@@ -53,7 +53,7 @@
 					<h2>제품 소개</h2>
 					<ol>
 						<li><a href="../index.jsp">메인</a></li>
-						<li>상품 문의</li>
+						<li>GIS Solution</li>
 					</ol>
 				</div>
 
@@ -62,12 +62,9 @@
 		<!-- End Breadcrumbs -->
 	</main>
 
-
-
-	<!-- Start footer.jsp -->
+	<!-- ======= Start Footer ======= -->
 	<jsp:include page="../footer.jsp"></jsp:include>
-	<!-- End footer.jsp -->
-
+	<!-- ======= End Footer ======= -->
 	<a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
 	<!-- Vendor JS Files -->

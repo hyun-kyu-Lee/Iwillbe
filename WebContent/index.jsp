@@ -105,12 +105,8 @@
 					<h2>About Us</h2>
 				</div>
 
-				<div class="row content">
-<!-- 					<div class="col-lg-6" data-aos="fade-right">
-						<h2>꿈을 현실로 만드는 기업</h2>
-						<h5>ICT를 통해 모두의 꿈을 현실로 만들어 다함께 행복한 세상을 만들어 갑니다</h5>
-					</div> -->
-					<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
+				<div class="row content" id="rowContent">
+					<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
 						<p>
 							<strong><h6>iWillB의 경영 이념</h6></strong>
 						</p>
@@ -118,7 +114,7 @@
 							<li><i class="ri-check-double-line"></i> 신뢰 - 믿을 수 있는 기업</li>
 							<p>고객 가치의 극대화를 위해 오늘도 고객을 관찰하고 연구합니다.</p>
 							<li><i class="ri-check-double-line"></i> 협력 - 긍정적인 협업</li>
-							<p>전 직원이 어떻게 서로 도울 수 있을지 고민하며, 행동하고자 노력합니다.</p>
+							<p>전 직원이 어떻게 서로 도울 수 있을지 고민하며, <br>행동하고자 노력합니다.</p>
 							<li><i class="ri-check-double-line"></i> 열정 - 가슴 뛰는 삶</li>
 							<p>모두의 마음을 담아 더 나은 세상을 만들기 위해 도전합니다.</p>
 							<li><i class="ri-check-double-line"></i> 혁신 - 차별화된 서비스</li>

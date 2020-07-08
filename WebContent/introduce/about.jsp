@@ -96,7 +96,7 @@
 							<p>고객 가치의 극대화를 위해 오늘도 고객을 관찰하고 연구합니다.</p>
 							<li style="font-weight: bold;"><i
 								class="ri-check-double-line"></i> 협력 - 긍정적인 협업</li>
-							<p>전 직원이 어떻게 서로 도울 수 있을지 고민하며, 행동하고자 노력합니다.</p>
+							<p>전 직원이 어떻게 서로 도울 수 있을지 고민하며,<br> 행동하고자 노력합니다.</p>
 							<li style="font-weight: bold;"><i
 								class="ri-check-double-line"></i> 열정 - 가슴 뛰는 삶</li>
 							<p>모두의 마음을 담아 더 나은 세상을 만들기 위해 도전합니다.</p>
