@@ -8,6 +8,7 @@
 </head>
 <body>
 	<footer id="footer">
+		<img src="/assets/img/logo_black.jpg" alt="회사로고" class="src" />
 		<div class="container d-md-flex py-4">
 			<div class="footerWrapper">
 				<div class="address">주소: 서울 동작구 남부순환로 269길 8, 덕창빌딩 302호</div>
