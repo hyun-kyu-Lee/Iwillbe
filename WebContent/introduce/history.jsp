@@ -51,9 +51,9 @@
 			<div class="container">
 
 				<div class="d-flex justify-content-between align-items-center">
-					<h2>회사 소개</h2>
+					<h2>회사 연혁</h2>
 					<ol>
-						<li><a href="../index.jsp">메인</a></li>
+						<li><a href="/index.jsp">메인</a></li>
 						<li>회사 연혁</li>
 					</ol>
 				</div>

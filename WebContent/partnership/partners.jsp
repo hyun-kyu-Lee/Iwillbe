@@ -45,17 +45,12 @@
 	<jsp:include page="../header.jsp"></jsp:include>
 	<!-- ======= End Header ======= -->
 	<main id="main">
-
-
-
-
-
 		<!-- ======= Breadcrumbs ======= -->
 		<section id="breadcrumbs" class="breadcrumbs">
 			<div class="container">
 
 				<div class="d-flex justify-content-between align-items-center">
-					<h2>제휴 문의</h2>
+					<h2>파트너스</h2>
 					<ol>
 						<li><a href="../index.jsp">메인</a></li>
 						<li>파트너스</li>
@@ -66,9 +61,6 @@
 		</section>
 		<!-- End Breadcrumbs -->
 	</main>
-
-
-
 	<!-- ======= Our Clients Section ======= -->
 	<section id="clients" class="clients">
 		<div class="container" data-aos="fade-up">

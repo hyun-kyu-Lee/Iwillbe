@@ -50,10 +50,10 @@
 			<div class="container">
 
 				<div class="d-flex justify-content-between align-items-center">
-					<h2>제품 소개</h2>
+					<h2>Products</h2>
 					<ol>
 						<li><a href="../index.jsp">메인</a></li>
-						<li>GIS Solution</li>
+						<li>Products</li>
 					</ol>
 				</div>
 

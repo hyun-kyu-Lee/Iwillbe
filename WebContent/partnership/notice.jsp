@@ -45,7 +45,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>제휴 문의</h2>
+          <h2>공지사항</h2>
           <ol>
             <li><a href="index.jsp">메인</a></li>
             <li>공지사항</li>
