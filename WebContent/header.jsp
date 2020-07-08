@@ -15,25 +15,25 @@
 				
 			<nav class="nav-menu d-none d-lg-block">
 				<ul>
-					<li class="drop-down"><a href="/introduce/about.jsp">회사소개</a>
+					<li class="drop-down"><a href="/introduce/about.jsp">About</a>
 						<ul>
 							<li><a href="/introduce/policy.jsp">비전체계</a></li>
 							<li><a href="/introduce/history.jsp">회사연혁</a></li>
 							<li><a href="/introduce/contact.jsp">오시는길</a></li>
 						</ul></li>
 
-					<li class="drop-down"><a href="/business/business.jsp">사업분야</a>
+					<li class="drop-down"><a href="/business/business.jsp">Business</a>
 						<ul>
 							<li><a href="/business/immersiveMedia.jsp">실감미디어</a></li>
 							<li><a href="/business/ICTService.jsp">ICT Service</a></li>
 						</ul></li>
-					<li class="drop-down"><a href="/products/product.jsp">제품소개</a>
+					<li class="drop-down"><a href="/products/product.jsp">Products</a>
 						<ul>
 							<li><a href="/products/realcube.jsp">Real Cube</a></li>
 							<li><a href="/products/bebelog.jsp">Bebelog</a></li>
 							<li><a href="/products/GISsolution.jsp">GIS Solution</a></li>
 						</ul></li>
-					<li class="drop-down"><a href="/partnership/partnerinquiry.jsp">제휴문의</a>
+					<li class="drop-down"><a href="/partnership/partnerinquiry.jsp">Contact</a>
 						<ul>
 							<li><a href="/partnership/partners.jsp">파트너스</a></li>
 							<li><a href="/partnership/partnerinquiry.jsp">제휴문의</a></li>
