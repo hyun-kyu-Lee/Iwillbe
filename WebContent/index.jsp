@@ -57,12 +57,12 @@
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
 							<h2>
-								<span>(주)아윌비에 방문 하신 것을 환영합니다!</span>
+								<span>아윌비㈜에 방문 하신 것을 환영합니다!</span>
 							</h2>
-							<p>내용</p>
-							<div class="text-center">
-								<a href="" class="btn-get-started">더보기</a>
-							</div>
+							<p>
+							<h3>꿈을 현실로 만드는 기업</h3>
+							<h5>ICT를 통해 모두의 꿈을 현실로 만들어 다함께 행복한 세상을 만들어 갑니다</h5>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -72,11 +72,8 @@
 					style="background-image: url(assets/img/slide/vr2.jpg);">
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
-							<h2>(주)아윌비는 ICT와 실감 미디어 분야를 선도합니다.</h2>
+							<h2>아윌비㈜는 ICT와 실감 미디어 분야를 선도합니다.</h2>
 							<p>내용</p>
-							<div class="text-center">
-								<a href="" class="btn-get-started">더보기</a>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -109,12 +106,10 @@
 				</div>
 
 				<div class="row content">
-
-					<div class="col-lg-6" data-aos="fade-right">
+<!-- 					<div class="col-lg-6" data-aos="fade-right">
 						<h2>꿈을 현실로 만드는 기업</h2>
 						<h5>ICT를 통해 모두의 꿈을 현실로 만들어 다함께 행복한 세상을 만들어 갑니다</h5>
-					</div>
-
+					</div> -->
 					<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 						<p>
 							<strong><h6>iWillB의 경영 이념</h6></strong>
@@ -270,8 +265,9 @@
 								<div class="col-lg-4 info">
 									<i class="icofont-google-map"></i>
 									<h4>Address</h4>
-									<p>서울 동작구 남부순환로 <br>
-									269길 8, 302호</p>
+									<p>
+										서울 동작구 남부순환로 <br> 269길 8, 덕창빌딩 302호
+									</p>
 								</div>
 
 								<div class="col-lg-4 info mt-4 mt-lg-0">
@@ -287,8 +283,8 @@
 								</div>
 							</div>
 						</div>
-  
-  
+
+
 					</div>
 
 				</div>
