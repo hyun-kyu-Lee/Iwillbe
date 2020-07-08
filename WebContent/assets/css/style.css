@@ -14,11 +14,11 @@ body::-webkit-scrollbar {
 }
 
 a {
-  color: #1bbd36;
+  color: #12036a;
 }
 
 a:hover {
-  color: #2ae149;
+  color: #12036a;
   text-decoration: none;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: #1bbd36;
+  background: #12036a;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-top:hover {
   color: #fff;
-  background: #2ae149;
+  background: #12036a;
   transition: 0.3s ease-in-out;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #1bbd36;
+  color: #12036a;
 }
 
 #header .logo img {
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #1bbd36;
+  color: #12036a;
 }
 
 .nav-menu .drop-down ul {
@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
-  border-top: 2px solid #1bbd36;
+  border-top: 2px solid #12036a;
 }
 
 .nav-menu .drop-down:hover > ul {
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1bbd36;
+  color: #12036a;
 }
 
 .nav-menu .drop-down > a:after {
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #1bbd36;
+  color: #12036a;
 }
 
 .mobile-nav {
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1bbd36;
+  color: #12036a;
   text-decoration: none;
 }
 
@@ -357,7 +357,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-duration: .5s;
   animation-duration: .5s;
-  border-top: 5px solid #1bbd36;
+  border-top: 5px solid #12036a;
 }
 
 #hero .carousel-content h2 {
@@ -381,11 +381,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #1bbd36;
+  border: 2px solid #12036a;
 }
 
 #hero .btn-get-started:hover {
-  background: #1bbd36;
+  background: #12036a;
   color: #fff;
   text-decoration: none;
 }
@@ -453,7 +453,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li.active {
   opacity: 1;
-  background: #1bbd36;
+  background: #12036a;
 }
 
 @media (min-width: 1024px) {
@@ -516,7 +516,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #1bbd36;
+  background: #12036a;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -530,7 +530,7 @@ section {
 --------------------------------------------------------------*/
  .breadcrumbs {
   padding: 15px 0;
-  background: #1bbd36;
+  background: #12036a;
   min-height: 40px;
   margin-top: 85px;
 }
@@ -681,7 +681,7 @@ section {
   top: 7px;
   position: absolute;
   font-size: 25px;
-  color: #1bbd36;
+  color: #12036a;
 }
 
 .about-us .content p:last-child {
@@ -765,11 +765,11 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #1bbd36;
+  color: #12036a;
   float: left;
   width: 44px;
   height: 44px;
-  border: 1px solid #1bbd36;
+  border: 1px solid #12036a;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -793,7 +793,7 @@ section {
 }
 
 .contact .info:hover i {
-  background: #1bbd36;
+  background: #12036a;
   color: #fff;
 }
 
@@ -866,7 +866,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #1bbd36;
+  border-color: #12036a;
 }
 
 .contact .php-email-form input {
@@ -878,7 +878,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #1bbd36;
+  background: #12036a;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -887,7 +887,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #2ae149;
+  background: #12036a;
 }
 
 @-webkit-keyframes animate-loading {
@@ -914,18 +914,23 @@ section {
 # Footer     // 하단 회사 소개 공통
 --------------------------------------------------------------*/
 #footer {
-  text-align: center;
   color: #fff;
   font-size: 14px;
   background: #222222;
   width: 100%;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #footer .py-4 {
-	padding-bottom: 5px !important;
-	
+	padding: 5px 0 0 5px !important;
+}
+
+#footer img {
+	width: 120px;
+	height: 80px;
 }
 
 #footer .footerWrapper {
