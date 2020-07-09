@@ -53,7 +53,7 @@
 
 				<!-- Slide 1 -->
 				<div class="carousel-item active"
-					style="background-image: url(assets/img/slide/vr.png);">
+					style="background-image: url(assets/img/slide/vr.jpg);">
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
 							<h2>
@@ -69,7 +69,7 @@
 
 				<!-- Slide 2 -->
 				<div class="carousel-item"
-					style="background-image: url(assets/img/slide/vr2.png);">
+					style="background-image: url(assets/img/slide/vr2.jpg);">
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
 							<h2>아윌비㈜는 ICT와 실감 미디어 분야를 선도합니다.</h2>
@@ -148,7 +148,7 @@
 
 					<div class="pd">
 						<a href="" class="logo"><img
-							src="./assets/img/products/kt_realcube.png" alt=""
+							src="./assets/img/products/kt_realcube.jpg" alt=""
 							class="img-fluid"></a>
 						<h5>Real Cube</h5>
 					</div>
