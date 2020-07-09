@@ -36,16 +36,15 @@
 
 <!-- Template Main CSS File -->
 <link href="../assets/css/style.css" rel="stylesheet">
+<link href="../assets/css/partnership.css" rel="stylesheet">
 
 </head>
-
 <body>
 
 	<!-- ======= Start Header ======= -->
 	<jsp:include page="../header.jsp"></jsp:include>
 	<!-- ======= End Header ======= -->
 	<main id="main">
-
 		<!-- ======= Breadcrumbs ======= -->
 		<section id="breadcrumbs" class="breadcrumbs">
 			<div class="container">
@@ -61,8 +60,31 @@
 			</div>
 		</section>
 		<!-- End Breadcrumbs -->
-	</main>
+		<section id="about-us" class="about-us">
+			<div class="container" data-aos="fade-up">
 
+				<div class="section-title">
+					<h2>제휴 문의</h2>
+				</div>
+
+				<div class="row content" id="rowContent">
+					<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
+						<p>
+							<strong>
+								<h6>
+									아윌비㈜는 고객의 성공과 즐거움을 위해<br>이로운 가치를 창출 할 수 있는 사업 파트너를 <br>기다립니다.
+								</h6>
+							</strong>
+						</p>
+						<div class="mailWrapper">
+							<a href="mailto:kyusisi58@google.com"><i
+								class="icofont-envelope"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
 
 	<!-- ======= Start Footer ======= -->
 	<jsp:include page="../footer.jsp"></jsp:include>
@@ -81,10 +103,8 @@
 	<script src="../assets/vendor/waypoints/jquery.waypoints.min.js"></script>
 	<script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 	<script src="../assets/vendor/aos/aos.js"></script>
-
 	<!-- Template Main JS File -->
 	<script src="../assets/js/main.js"></script>
-
 </body>
-
 </html>
+
