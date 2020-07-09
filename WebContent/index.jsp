@@ -53,7 +53,7 @@
 
 				<!-- Slide 1 -->
 				<div class="carousel-item active"
-					style="background-image: url(assets/img/slide/vr.jpg);">
+					style="background-image: url(assets/img/slide/vr.png);">
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
 							<h2>
@@ -69,7 +69,7 @@
 
 				<!-- Slide 2 -->
 				<div class="carousel-item"
-					style="background-image: url(assets/img/slide/vr2.jpg);">
+					style="background-image: url(assets/img/slide/vr2.png);">
 					<div class="carousel-container">
 						<div class="carousel-content animate__animated animate__fadeInUp">
 							<h2>아윌비㈜는 ICT와 실감 미디어 분야를 선도합니다.</h2>
@@ -148,7 +148,7 @@
 
 					<div class="pd">
 						<a href="" class="logo"><img
-							src="./assets/img/products/kt_realcube.jpg" alt=""
+							src="./assets/img/products/kt_realcube.png" alt=""
 							class="img-fluid"></a>
 						<h5>Real Cube</h5>
 					</div>
@@ -187,19 +187,19 @@
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/KT.jpg" class="img-fluid" alt="">
+							<img src="./assets/img/clients/kt.png" class="img-fluid" alt="">
 						</div>
 					</div>
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/kth.jpg" class="img-fluid" alt="">
+							<img src="./assets/img/clients/kth.png" class="img-fluid" alt="">
 						</div>
 					</div>
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/국민체육진흥공단.jpg" class="img-fluid"
+							<img src="./assets/img/clients/국민체육진흥공단.png" class="img-fluid"
 								alt="">
 						</div>
 					</div>
@@ -207,20 +207,20 @@
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/맵퍼스.jpg" class="img-fluid" alt="">
+							<img src="./assets/img/clients/맵퍼스.png" class="img-fluid" alt="">
 						</div>
 					</div>
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/위지윅스튜디오.jpg" class="img-fluid"
+							<img src="./assets/img/clients/위지윅스튜디오.png" class="img-fluid"
 								alt="">
 						</div>
 					</div>
 
 					<div class="col-lg-3 col-md-4 col-6">
 						<div class="client-logo">
-							<img src="./assets/img/clients/시선아이티.PNG" class="img-fluid"
+							<img src="./assets/img/clients/seesunit.png" class="img-fluid"
 								alt="">
 						</div>
 					</div>

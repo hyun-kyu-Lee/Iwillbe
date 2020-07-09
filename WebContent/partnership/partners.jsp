@@ -73,19 +73,19 @@
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/KT.jpg" class="img-fluid" alt="">
+						<img src="../assets/img/clients/kt.png" class="img-fluid" alt="">
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/kth.jpg" class="img-fluid" alt="">
+						<img src="../assets/img/clients/kth.png" class="img-fluid" alt="">
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/국민체육진흥공단.jpg" class="img-fluid"
+						<img src="../assets/img/clients/국민체육진흥공단.png" class="img-fluid"
 							alt="">
 					</div>
 				</div>
@@ -93,20 +93,20 @@
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/맵퍼스.jpg" class="img-fluid" alt="">
+						<img src="../assets/img/clients/맵퍼스.png" class="img-fluid" alt="">
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/위지윅스튜디오.jpg" class="img-fluid"
+						<img src="../assets/img/clients/위지윅스튜디오.png" class="img-fluid"
 							alt="">
 					</div>
 				</div>
 
 				<div class="col-lg-3 col-md-4 col-6">
 					<div class="client-logo">
-						<img src="../assets/img/clients/시선아이티.PNG" class="img-fluid"
+						<img src="../assets/img/clients/seesunit.png" class="img-fluid"
 							alt="">
 					</div>
 				</div>

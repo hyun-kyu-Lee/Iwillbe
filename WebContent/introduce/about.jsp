@@ -77,7 +77,6 @@
 						<h5>ICT를 통해 모두의 꿈을 현실로 만들어 다함께 행복한 세상을 만들어 갑니다</h5>
 					</div>
 					<img src="../assets/img/경영이념.PNG" class="img-fluid">
-
 				</div>
 
 
