@@ -267,7 +267,7 @@
 								</div>
 
 								<div class="col-lg-4 info mt-4 mt-lg-0">
-									<i class="icofont-envelope"></i>
+									<i class="icofont-phone"></i>
 									<h4>TEL</h4>
 									<p>02-6949-5335</p>
 								</div>
