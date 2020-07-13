@@ -18,3 +18,9 @@
 	cursor: pointer;
 	
 }
+
+@media screen and (max-width: 500px) {
+	h6 {
+		font-size: 10px;
+	}
+}

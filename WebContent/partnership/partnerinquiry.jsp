@@ -69,13 +69,9 @@
 
 				<div class="row content" id="rowContent">
 					<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up">
-						<p>
-							<strong>
-								<h6>
-									아윌비㈜는 고객의 성공과 즐거움을 위해<br>이로운 가치를 창출 할 수 있는 사업 파트너를 <br>기다립니다.
-								</h6>
-							</strong>
-						</p>
+						<h6>
+							아윌비㈜는 고객의 성공과 즐거움을 위해<br>이로운 가치를 창출 할 수 있는 사업 파트너를 <br>기다립니다.
+						</h6>
 						<div class="mailWrapper">
 							<a href="mailto:kyusisi58@google.com"><i
 								class="icofont-envelope"></i></a>
